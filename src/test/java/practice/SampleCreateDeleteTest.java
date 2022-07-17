@@ -9,7 +9,7 @@ public class SampleCreateDeleteTest
 	@Test(groups = "smoke")
 	public void createContact() throws Throwable
 	{
-		System.out.println("contact created");
+		System.out.println("contact created successfully");
 		
 	}
 	@Test(groups = "regression")
