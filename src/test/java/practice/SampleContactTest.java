@@ -15,21 +15,5 @@ WebDriver driver=new ChromeDriver();
 		System.out.println("contact created...");
 	}
 
-	@Test
-	public void collaboratetechnique()
-	{
-		System.out.println("colloborative");
-	}
-	@Test
-	public void collaborate()
-	{
-		System.out.println("colloborative");
-		System.out.println("cccccc..");
-	}
-	public void collaborateNew()
-	{
-		System.out.println("colloborative");
-		System.out.println("cccccc..cc    ");
-	}
 	
 }
