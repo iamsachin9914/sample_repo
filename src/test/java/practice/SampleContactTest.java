@@ -13,8 +13,6 @@ WebDriver driver=new ChromeDriver();
 	    System.getProperty("browser");
 		driver.get(value);
 		System.out.println("contact created");
-	
-
 	}
 	@Test
 	public void collaboratetechnique()
@@ -25,8 +23,7 @@ WebDriver driver=new ChromeDriver();
 	public void collaborate()
 	{
 		System.out.println("colloborative");
-		System.out.println("cccccc");
+		System.out.println("cccccc..");
 	}
 	
 }
-//-Durl=http://localhost:8888 -Dbroswer=chrome
