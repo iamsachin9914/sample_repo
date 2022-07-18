@@ -12,7 +12,7 @@ WebDriver driver=new ChromeDriver();
 		String value=System.getProperty("url");
 	    System.getProperty("browser");
 		driver.get(value);
-		System.out.println("contact created");
+		System.out.println("contact created...");
 	}
 	
 	
