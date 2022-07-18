@@ -25,5 +25,10 @@ WebDriver driver=new ChromeDriver();
 		System.out.println("colloborative");
 		System.out.println("cccccc..");
 	}
+	public void collaborateNew()
+	{
+		System.out.println("colloborative");
+		System.out.println("cccccc..cc");
+	}
 	
 }
