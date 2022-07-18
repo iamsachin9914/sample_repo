@@ -21,5 +21,11 @@ WebDriver driver=new ChromeDriver();
 	{
 		System.out.println("colloborative");
 	}
+	@Test
+	public void collaborate()
+	{
+		System.out.println("colloborative");
+	}
+	
 }
 //-Durl=http://localhost:8888 -Dbroswer=chrome
