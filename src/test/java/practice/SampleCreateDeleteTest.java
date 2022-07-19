@@ -12,6 +12,8 @@ public class SampleCreateDeleteTest
 	@Test(groups = "regression")
 	public void createAndDeleteContact()throws Throwable
 	{
-		System.out.println("crated with delete options..ss");
+		System.out.println("crated with delete optionsss");
+		System.out.println("crated with delete optionsss");
+		
 	}
 }
