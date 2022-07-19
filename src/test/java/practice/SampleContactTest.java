@@ -13,6 +13,7 @@ WebDriver driver=new ChromeDriver();
 	    System.getProperty("browser");
 		driver.get(value);
 		System.out.println("contact created successfully......");
+		driver.close();
 		
 		
 	}
