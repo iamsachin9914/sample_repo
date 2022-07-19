@@ -9,9 +9,9 @@ WebDriver driver=new ChromeDriver();
 	@Test
 	public void createContact() throws Throwable
 	{
-		String value=System.getProperty("url");
+		//
 	    System.getProperty("browser");
-		driver.get(value);
+		//driver.get(value);
 		System.out.println("contact created successfully......");
 		driver.close();
 		
