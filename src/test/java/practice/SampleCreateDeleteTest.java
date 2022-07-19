@@ -13,5 +13,6 @@ public class SampleCreateDeleteTest
 	public void createAndDeleteContact()throws Throwable
 	{
 		System.out.println("crated with delete optionsss");
+		System.out.println("crated with delete optionsss");
 	}
 }
