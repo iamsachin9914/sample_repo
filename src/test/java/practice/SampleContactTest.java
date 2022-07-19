@@ -5,16 +5,16 @@ import org.testng.annotations.Test;
 
 public class SampleContactTest
 {
-//WebDriver driver=new ChromeDriver();
+WebDriver driver=new ChromeDriver();
 	@Test
 	public void createContact() throws Throwable
 	{
-//		String value=System.getProperty("url");
-//	    System.getProperty("browser");
-//		driver.get(value);
-//		System.out.println("contact created successfully...");
+		String value=System.getProperty("url");
+	    System.getProperty("browser");
+		driver.get(value);
+		System.out.println("contact created successfully...");
 		
-		System.out.println("hi...");
+		
 	}
 
 }
